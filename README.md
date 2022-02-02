@@ -11,9 +11,9 @@
 ✍️ &nbsp;I'm an active trader and investor in stock market, cryptocurrencies, digital assests like NFT, digital land, etc.\
 ✍️ &nbsp;In free pass time, I do Blog Writing, Book Reading, Gaming as hobbies/side hustles.\
 ✉️ &nbsp;For feedback and suggestions email at rachitjindal56@gmail.com!\
-📄 &nbsp;For more details have a look at my [Résumé](https://bit.ly/3okOm4V).\
+📄 &nbsp;For more details have a look at my [Résumé](https://bit.ly/3okOm4V).
 
-<img alt="Coding" src="https://raw.githubusercontent.com/rachitjindal56/rachitjindal56/main/image_files/coding.gif" align="right"/>\
+<img alt="Coding" src="https://raw.githubusercontent.com/rachitjindal56/rachitjindal56/main/image_files/coding.gif" align="right"/>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -22,14 +22,16 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;\
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;\
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![HuggingFace](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=Transformers)&nbsp;
 ![Kaggle](https://img.shields.io/badge/-Kaggle-05122A?style=flat&logo=kaggle)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![BAT](https://img.shields.io/badge/-BAT-05122A?style=flat&logo=bat)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C);\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
