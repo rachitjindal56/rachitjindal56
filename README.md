@@ -2,16 +2,21 @@
 # Hey there, I'm Rachit! 👋
 #### I'm a B.Tech student learning and working as Data Science Engineer mainly in domain of NLP (Natural Language Processing) and Computer Visison.
 
+
 ## 🚀 About Me
 
 🎓 &nbsp;I'm pre-final year student with Major in Instrumentation and Control and Minor in Computer Science at the [National Institute of Technology(NIT), Jalandhar](https://www.nitj.ac.in/).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Natural Language Processing, and Image Processing.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 ✍️ &nbsp;In free pass time, I do Blog Writing, Book Reading, Gaming as hobbies/side hustles.\
-
 ✉️ &nbsp;For feedback and suggestions email at rachitjindal56@gmail.com!\
 📄 &nbsp;For more details have a look at my [Résumé](https://bit.ly/3okOm4V).\
+\
+\
+\
+\
 <img alt="Coding" src="https://raw.githubusercontent.com/rachitjindal56/rachitjindal56/main/image_files/coding.gif" align="right"/>
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -34,6 +39,7 @@
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -42,6 +48,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rachitjindal56&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
