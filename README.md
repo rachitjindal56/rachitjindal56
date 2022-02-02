@@ -11,12 +11,11 @@
 ✍️ &nbsp;In free pass time, I do Blog Writing, Book Reading, Gaming as hobbies/side hustles.\
 ✉️ &nbsp;For feedback and suggestions email at rachitjindal56@gmail.com!\
 📄 &nbsp;For more details have a look at my [Résumé](https://bit.ly/3okOm4V).\
-\
-\
-\
-\
-<img alt="Coding" src="https://raw.githubusercontent.com/rachitjindal56/rachitjindal56/main/image_files/coding.gif" align="right"/>
 
+<img alt="Coding" src="https://raw.githubusercontent.com/rachitjindal56/rachitjindal56/main/image_files/coding.gif" align="right"/>\
+\
+\
+\
 
 ## 🛠 &nbsp;Tech Stack
 
