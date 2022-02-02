@@ -12,9 +12,7 @@
 ✉️ &nbsp;For feedback and suggestions email at rachitjindal56@gmail.com!\
 📄 &nbsp;For more details have a look at my [Résumé](https://bit.ly/3okOm4V).\
 \
-\
 <img alt="Coding" src="https://raw.githubusercontent.com/rachitjindal56/rachitjindal56/main/image_files/coding.gif" align="right"/>\
-\
 \
 ## 🛠 &nbsp;Tech Stack
 
@@ -37,8 +35,6 @@
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 \
-\
-
 \
 ## ⚙️ &nbsp;GitHub Analytics
 
