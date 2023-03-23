@@ -11,7 +11,7 @@
 ✍️ &nbsp;I'm an active trader and investor in stock market, cryptocurrencies, digital assests like NFT, digital land, etc.\
 ✍️ &nbsp;In free pass time, I do Blog Writing, Book Reading, Gaming as hobbies/side hustles.\
 ✉️ &nbsp;For feedback and suggestions email at rachitjindal56@gmail.com!\
-📄 &nbsp;For more details have a look at my [Résumé](shorturl.at/frsHY).
+📄 &nbsp;For more details have a look at my [Résumé]([shorturl.at/frsHY](https://drive.google.com/file/d/1FBT6j0d7-j1ZVcKVbognlCeBrhN1MEVW/view)).
 
 <img alt="Coding" src="https://raw.githubusercontent.com/rachitjindal56/rachitjindal56/main/image_files/coding.gif" align="right"/>
 
