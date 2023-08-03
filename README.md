@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-🎓 &nbsp;[National Institute of Technology(NIT), Jalandhar](https://www.nitj.ac.in/) 2023 pass-out Major in Instrumentation and Control and Minor in Computer Science at the.\
+🎓 &nbsp;[National Institute of Technology(NIT), Jalandhar](https://www.nitj.ac.in/) 2023 pass-out Major in Instrumentation and Control and Minor in Computer Science.\
 🌱 &nbsp;I'm on track experimenting more about Artificial Intelligence, Natural Language Processing, and Image Processing.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 ✍️ &nbsp;I'm an active trader and investor in stock market, cryptocurrencies, digital assests like NFT, digital land, etc.\
