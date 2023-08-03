@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-🎓 &nbsp;[National Institute of Technology(NIT), Jalandhar](https://www.nitj.ac.in/) 2023 pass-out Major in Instrumentation and Control and Minor in Computer Science at the .\
+🎓 &nbsp;[National Institute of Technology(NIT), Jalandhar](https://www.nitj.ac.in/) 2023 pass-out Major in Instrumentation and Control and Minor in Computer Science at the.\
 🌱 &nbsp;I'm on track experimenting more about Artificial Intelligence, Natural Language Processing, and Image Processing.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 ✍️ &nbsp;I'm an active trader and investor in stock market, cryptocurrencies, digital assests like NFT, digital land, etc.\
@@ -42,8 +42,8 @@
 
 <p align="center">
 <a href="https://github.com/rachitjindal56">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rachitjindal56&theme=dark&background=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rachitjindal56&show_icons=true&theme=radical"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rachitjindal56&theme=dark&background=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitjindal56&layout=donut-vertical"/>
 </a>
 </p>
 
