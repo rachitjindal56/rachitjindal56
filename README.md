@@ -5,13 +5,12 @@
 
 ## 🚀 About Me
 
-🎓 &nbsp;I'm pre-final year student with Major in Instrumentation and Control and Minor in Computer Science at the [National Institute of Technology(NIT), Jalandhar](https://www.nitj.ac.in/).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Natural Language Processing, and Image Processing.\
+🎓 &nbsp;[National Institute of Technology(NIT), Jalandhar](https://www.nitj.ac.in/) 2023 pass-out Major in Instrumentation and Control and Minor in Computer Science at the .\
+🌱 &nbsp;I'm on track experimenting more about Artificial Intelligence, Natural Language Processing, and Image Processing.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 ✍️ &nbsp;I'm an active trader and investor in stock market, cryptocurrencies, digital assests like NFT, digital land, etc.\
 ✍️ &nbsp;In free pass time, I do Blog Writing, Book Reading, Gaming as hobbies/side hustles.\
-✉️ &nbsp;For feedback and suggestions email at rachitjindal56@gmail.com!\
-📄 &nbsp;For more details have a look at my [Résumé](https://drive.google.com/file/d/1FBT6j0d7-j1ZVcKVbognlCeBrhN1MEVW/view).
+✉️ &nbsp;For feedback and suggestions email at rachitjindal56@gmail.com!
 
 <img alt="Coding" src="https://raw.githubusercontent.com/rachitjindal56/rachitjindal56/main/image_files/coding.gif" align="right"/>
 
