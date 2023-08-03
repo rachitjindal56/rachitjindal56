@@ -43,7 +43,7 @@
 <p align="center">
 <a href="https://github.com/rachitjindal56">
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rachitjindal56&theme=dark&background=000000"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rachitjindal56&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rachitjindal56&show_icons=true&theme=radical"/>
 </a>
 </p>
 
