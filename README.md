@@ -1,6 +1,6 @@
 
 # Hey there, I'm Rachit! 👋
-#### I'm a B.Tech student learning and working as Data Science Engineer mainly in domain of NLP (Natural Language Processing) and Computer Visison.
+#### 2023 B.Tech graduate from NIT Jalandhar, specializing in Generative AI and Machine Learning. Driving AI innovation and strategy as an AI Platforms Solution Engineer at FastHr.AI, a leading Gen-AI startup, by harnessing the power of Generative AI and Machine Learning to deliver transformative results and push the boundaries of technology. Concurrently thriving in the financial realm as a perceptive stock market and crypto investor, combining technical prowess with keen financial acumen, reflecting a unique blend of technical and financial insight.
 
 
 ## 🚀 About Me
