@@ -12,8 +12,6 @@
 ✍️ &nbsp;In free pass time, I do Blog Writing, Book Reading, Gaming as hobbies/side hustles.\
 ✉️ &nbsp;For feedback and suggestions email at rachitjindal56@gmail.com!
 
-<img alt="Coding" src="https://raw.githubusercontent.com/rachitjindal56/rachitjindal56/main/image_files/coding.gif" align="right"/>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
