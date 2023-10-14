@@ -41,7 +41,7 @@
 <p>
 <a href="https://github.com/rachitjindal56">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=rachitjindal56&theme=dark&background=000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitjindal56&layout=donut"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitjindal56&layout=compact"/>
 </a>
 </p>
 
