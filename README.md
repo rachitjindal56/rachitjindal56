@@ -1,6 +1,6 @@
 
 # Hey there, I'm Rachit! 👋
-#### 2023 B.Tech graduate from NIT Jalandhar, specializing in Generative AI and Machine Learning. Driving AI innovation and strategy as an AI Platforms Solution Engineer at FastHr.AI, a leading Gen-AI startup, by harnessing the power of Generative AI and Machine Learning to deliver transformative results and push the boundaries of technology. Concurrently thriving in the financial realm as a perceptive stock market and crypto investor, combining technical prowess with keen financial acumen, reflecting a unique blend of technical and financial insight.
+#### B.Tech graduate from NIT Jalandhar with 1+ year of experience specializing in Generative AI and Machine Learning with experience in developing system architecture, deployments, and working on complex POC using AI models. My expertise lies in developing robust and scalable models that generate realistic and creative outputs, enabling users to resolve complex problems. Passionate about pushing the boundaries of AI/ML and driving innovation.
 
 
 ## 🚀 About Me
@@ -9,7 +9,6 @@
 🌱 &nbsp;I'm on track experimenting more about Artificial Intelligence, Natural Language Processing, and Image Processing.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 ✍️ &nbsp;I'm an active trader and investor in stock market, cryptocurrencies, digital assests like NFT, digital land, etc.\
-✍️ &nbsp;In free pass time, I do Blog Writing, Book Reading, Gaming as hobbies/side hustles.\
 ✉️ &nbsp;For feedback and suggestions email at rachitjindal56@gmail.com!
 
 ## 🛠 &nbsp;Tech Stack
