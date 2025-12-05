@@ -1,14 +1,13 @@
 
 # Hey there, I'm Rachit! 👋
-#### B.Tech graduate from NIT Jalandhar with 1+ year of experience specializing in Generative AI and Machine Learning with experience in developing system architecture, deployments, and working on complex POC using AI models. My expertise lies in developing robust and scalable models that generate realistic and creative outputs, enabling users to resolve complex problems. Passionate about pushing the boundaries of AI/ML and driving innovation.
+#### NIT Jalandhar alumni with experience specializing in Generative AI and Machine Learning with experience in developing system architecture, deployments, and working on complex POC using AI models. My expertise lies in developing robust and scalable models that generate realistic and creative outputs, enabling users to resolve complex problems. Passionate about pushing the boundaries of AI/ML and driving innovation.
 
 
 ## 🚀 About Me
 
 🎓 &nbsp;[National Institute of Technology(NIT), Jalandhar](https://www.nitj.ac.in/) 2023 pass-out Major in Instrumentation and Control and Minor in Computer Science.\
-🌱 &nbsp;I'm on track experimenting more about Artificial Intelligence, Natural Language Processing, and Image Processing.\
+🌱 &nbsp;I'm on track experimenting more about Artificial Intelligence, Natural Language Processing.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-✍️ &nbsp;I'm an active trader and investor in stock market, cryptocurrencies, digital assests like NFT, digital land, etc.\
 ✉️ &nbsp;For feedback and suggestions email at rachitjindal56@gmail.com!
 
 ## 🛠 &nbsp;Tech Stack
